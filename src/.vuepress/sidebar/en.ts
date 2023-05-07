@@ -4,6 +4,13 @@ export const enSidebar = sidebar({
   "/": [
     "",
     {
+      icon: "mdi:speedometer-slow",
+      text: "Beginner",
+      prefix: "beginner/",
+      link: "beginner/",
+      children: "structure",
+    },
+    {
       icon: "discover",
       text: "Demo",
       prefix: "demo/",
