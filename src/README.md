@@ -36,6 +36,4 @@ features:
     details: Kurs o'quvchilari uchun Telegramda guruh ochib qo'yilgan. U yerda siz savollaringizni boshqalardan so'rashingiz mumkin.
     link: https://t.me/webdastur
     
-#copyright: false
-footer: MIT Licensed
 ---

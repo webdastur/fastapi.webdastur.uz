@@ -5,7 +5,7 @@ export const enNavbar = navbar([
     {
         text: "Beginner",
         icon: "mdi:speedometer-slow",
-        prefix: "/beginner/",
+        prefix: "beginner/",
         children: [
             {text: "01. Kirish", icon: "material-symbols:document-scanner-outline", link: "01-kirish/"},
         ],
